@@ -8,6 +8,6 @@ In the world of startups and entrepreneurship, gaining access to high-quality fe
 
 Hi everyone! We're excited to introduce our digital "Shark Tank" simulator. 
 
-Our project uses AI to create interactive photorealistic agents of industry titans like Mark Cuban, Marc Andreessen, Paul Graham, and Sam Altman (as well as a surprise guest Ethan, one our Hackathon hosts and the founder and CEO of Mixpeek). This platform serves as a virtual venture capital feedback tool, offering founders a unique opportunity to present their business ideas anytime, anywhere.
+Our project uses AI to create interactive photorealistic agents of industry titans like Mark Cuban, Marc Andreessen, Paul Graham, and Sam Altman. This platform serves as a virtual venture capital feedback tool, offering founders a unique opportunity to present their business ideas anytime, anywhere.
 
 Our goal is simple yet ambitious -- to provide every entrepreneur with a VC in their pocket. Users can pitch their startups to our digital panel, request funding, and engage in negotiations as if in a real-life pitch meeting. Following their pitch, users receive comprehensive feedback on various aspects of their business model and presentation, helping them to further refine their pitch and business strategy.
